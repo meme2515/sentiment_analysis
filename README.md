@@ -23,3 +23,5 @@ Here's an example of one of the most negative Tweets by Trump:
 An example of one of the most postive Tweets:
 
 > thank you to all of my great supporters, really big progress being made. other countries wanting to fix crazy trade deals. economy is roaring. supreme court pick getting great reviews. new poll says trump, at over 90%, is the most popular republican in history of the party. wow!
+
+I have proceeded to compare the sentiment score distribution of Tweets containing two specific words: nytimes and fox news. Below is the visualized result that aligns with expectations.
