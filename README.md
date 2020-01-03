@@ -10,9 +10,7 @@ First I have constructed a pandas dataframe of Trump's Tweets provided in .json 
 
 I found a total of 10 unique sources for Tweets including iPhone, Android, and Web Client. First, I compared the distribution of tweets uploaded via iPhone vs. Android from year 2016 to 2019 and found that Android usage was heavier in the first two years but was almost completely replaced by iPhone in the last two years (Trump switched from Android to iPhone some time in 2017, according to [this Verge article](https://www.theverge.com/2017/3/29/15103504/donald-trump-iphone-using-switched-android)).
 
-![img](Capture.JPG)
-
-It was also observed that before 2017, Trump's use of Android peaked in hours where he's not in work whereas his use of iPhone peaked in work hours. This supports the existing hypothesis that his Android tweets were written personally whereas his iPhone tweets were written by his staff during this time.
+It was also observed that before 2017, Trump's use of Android peaked in hours where he's not in work whereas his use of iPhone peaked in work hours. This supports the existing hypothesis that his Android tweets were written personally whereas his iPhone tweets were written by his staff during this time. Below is a visualization of this comparison.
 
 ![img](Capture2.JPG)
 
